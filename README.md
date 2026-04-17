@@ -22,7 +22,7 @@ To analyze the Titanic dataset using Python libraries like Pandas, Matplotlib, a
 
 📁 Files in Repository
 - /[`task5_titanic_eda.ipynb`](./task5_titanic_eda.ipynb) - Main Jupyter notebook with complete EDA
-- /[titanic.csv`](./titanic.csv) - Dataset used for analysis
+- /[titanic.csv`](./titanic.csv.csv) - Dataset used for analysis
 
 📈 Visualizations Included
 1. Gender vs Survival Countplot
@@ -38,5 +38,3 @@ How to Run
 
 📝 Conclusion
 The analysis shows that gender, passenger class, and age were the most significant factors determining survival on the Titanic. Females, 1st class passengers, and children had the highest chances of survival.
-
-**Task 5 Completed for Data Science Internship**
