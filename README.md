@@ -37,4 +37,5 @@ How to Run
 4. Run all cells
 
 📝 Conclusion
+
 The analysis shows that gender, passenger class, and age were the most significant factors determining survival on the Titanic. Females, 1st class passengers, and children had the highest chances of survival.
